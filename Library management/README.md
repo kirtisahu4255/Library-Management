@@ -1,14 +1,18 @@
-# -Fake-Library-Management- SQL project- MySQL Workbench
-(fake) Library management SQL project
+Library Management SQL Project
+Overview
+This project is a comprehensive Library Management System implemented using MySQL Workbench. It includes various SQL features such as relational tables, views, stored functions, stored procedures, and example queries to demonstrate its functionality.
 
-Within this project: 
-
-- 6 Relational tables (5 with Primary + Foreign key restraints)
-- 1 Inner joins view
-- 1 Stored function 
-- ER Diagram showing the relations between all tables
-- 1 Stored procedure 
-
-- Additionally, there are also example querys to show how the project runs -  
-
-Note: The stored function within this project doesn't work how it should, but I will fix that at some point when I learn what the issue is...
+Features
+Relational Tables: 6 relational tables, with 5 including primary and foreign key constraints.
+Views: An inner joins view to display combined data from multiple tables.
+Stored Function: One stored function (currently under development to fix issues).
+Stored Procedure: One stored procedure for specific library operations.
+ER Diagram: An ER diagram showing the relations between all tables.
+Example Queries: Sample queries to showcase the functionality of the system.
+Table Structure
+Books
+Members
+Loans
+Authors
+Publishers
+Categories
